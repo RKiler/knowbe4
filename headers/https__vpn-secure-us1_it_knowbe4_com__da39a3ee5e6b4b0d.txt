@@ -1,0 +1,13 @@
+200 OK
+Content-Type: text/html
+Retry-Count: 0
+Expires: 0
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Date: Mon, 11 Mar 2024 23:50:50 GMT
+Content-Length: 170
+Pragma: private
+Cache-Control: private, must-revalidate, post-check=0, pre-check=0
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block;
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; img-src * data:; style-src 'self' 'unsafe-inline';

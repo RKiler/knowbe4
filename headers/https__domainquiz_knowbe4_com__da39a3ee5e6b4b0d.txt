@@ -1,0 +1,15 @@
+200 OK
+Vary: Accept-Encoding
+X-Amz-Cf-Id: i4mS20ND7Z0s3jqvVHwNYdRH6jVLwGRwTsiGRTJQ95tZWEtuhv4fCA==
+Age: 3369
+Date: Mon, 11 Mar 2024 22:54:53 GMT
+Etag: W/"f59c36b0adafcb2889486f56676bb88b"
+Last-Modified: Wed, 01 Nov 2023 13:48:58 GMT
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Cf-Pop: SFO5-C3
+Content-Type: text/html; charset=utf-8
+Server: AmazonS3
+Retry-Count: 0
+Via: 1.1 dec8fa38a453902521b941c7cd70d33c.cloudfront.net (CloudFront)
+X-Amz-Version-Id: null
+X-Cache: Hit from cloudfront

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Page not found</title>
+  <style type="text/css">
+    body { margin: 0;
+      width: auto;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      line-height: 18px;
+      color: #333333;
+      background-color: #f4f4f4;
+      background-image: url(/images/background-texture.png);
+    }
+    h1 {
+      font-size: 30px;
+      line-height: 36px;
+      margin: 0;
+      font-family: inherit;
+      font-weight: bold;
+      color: inherit;
+      text-rendering: optimizelegibility;
+    }
+    a {
+      color: #0088cc;
+      text-decoration: none;
+    }
+    hr {
+      border-top: 1px solid #e0e7ee;
+    }
+    ul {
+      list-style: none;
+      padding: 0px;
+    }
+    ul li::before {
+      content: "\2022";
+      color: #7C7C7C;
+      font-weight: #006EC7;
+      display: inline-block;
+      width: 1em;
+      height: 1.5em;
+      font-size: 1.5em;
+    }
+    img {
+      width: auto 9;
+      height: auto;
+      max-width: 100%;
+      vertical-align: middle;
+      border: 0;
+      -ms-interpolation-mode: bicubic;
+    }
+    .exception-page{
+      text-align:center;
+    }
+    .exception-page img{
+      margin:30px 0;
+      margin:30px 0;
+    }
+    .logo {
+      text-align: left;
+      margin-left: 5%;
+    }
+    .logo-row {
+      margin-bottom: 5%;
+    }
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    .column-1 {
+      float: left;
+      width: 35%;
+    }
+    .column-2 {
+      float: left;
+      width: 50%;
+      text-align: left;
+    }
+    .column-3 {
+      float: left;
+      width: 15%;
+    }
+    .right {
+      float: right;
+      padding-right: 30%;
+    }
+    .response-code {
+      font-size: 150px;
+      padding-bottom: 70px;
+      font-weight: unset;
+    }
+    .gray {
+      color: #7C7C7C;
+    }
+    .page-not-found {
+      font-size: 24px;
+    }
+
+    .content {
+      color: #505050;
+      font-size: 14px;
+    }
+    .content-margin {
+      margin-bottom: 2%;
+    }
+    .custom-search {
+      width: 400px;
+    }
+    .footer {
+      color: #525F7E;
+      opacity: .9;
+      letter-spacing: .4px;
+      font-weight: 400;
+      margin-top: 10%;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="row exception-page">
+    <div class="row logo-row">
+      <div class="column-1">
+        <div class="logo column-1">
+          <a href="https://www.ezofficeinventory.com">
+            <img src="/images/public-pages/ezo_landing_page/ezo-logo-1-scroll.png">
+          </a>
+        </div>
+      </div>
+      <div class="column-2"></div>
+      <div class="column-3"></div>
+    </div>
+    
+    <div class="row">
+      <div class="column-1"></div>
+      <div class="column-2 right">
+        <h1 class="response-code gray">404</h1>
+        <div class="gray page-not-found">
+          <strong>PAGE NOT FOUND</strong>
+        </div>
+        <br>
+        <hr align="left" width="65%">
+        <br>
+        <div class="content content-margin">
+          <strong>You may have typed in the wrong URL or may have deleted the resource.</strong>
+        </div>
+        <div class="content">
+          You may try:
+        </div>
+        <div class="content">
+          <ul>
+            <li>
+              <strong>Going to the <a href="#_" id="dashboard-link">Dashboard</a></strong>
+            </li>
+            <li>
+              <strong>Contacting us at <a href="mailto:support@ezofficeinventory.com">support@ezofficeinventory.com</a></strong>
+            </li>
+          </ul>
+        </div>
+        <div class="custom-search" id='custom_search'>
+        </div>
+      </div>
+      <div class="column-3"></div>
+    </div>
+  </div>
+</body>
+<footer class="footer">
+  <div><center><small>© 2023 <span itemprop="name">EZOfficeInventory</span>. All rights reserved </small></small></center>
+</footer>
+</html>
+
+<script type="text/javascript">
+  document.getElementById("dashboard-link").setAttribute('href', window.location.origin + "/dashboard");
+    var javasriptResourceUrl = 'https://ui.customsearch.ai/api/ux/render?customConfig=4238663745&market=en-US&safeSearch=Moderate';
+    var s = document.createElement('script');
+    s.setAttribute('type', 'text/javascript');
+    s.id = 'bcs_js_snippet';
+    s.src = javasriptResourceUrl;
+    document.getElementById('custom_search').append(s);
+</script>

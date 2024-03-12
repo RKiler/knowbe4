@@ -1,0 +1,13 @@
+404 Not Found
+Set-Cookie: XSRF-TOKEN=805c01094b11a37312bd2cdf81bb8778c4dd3e04-1710201042069-5e61509656bf70463b301848; SameSite=Lax; Path=/
+Request-Time: 2
+Content-Security-Policy: base-uri 'none'; report-uri https://csp-report.browser-intake-datadoghq.com/api/v2/logs?dd-api-key=pub46dd5cf52153d917fc1d5e91ff3a600d&dd-evp-origin=content-security-policy&ddsource=csp-report; frame-ancestors 'self' https://links.iterable.com; object-src 'none'; worker-src 'self' blob:; script-src 'report-sample' 'unsafe-eval' 'unsafe-inline' 'strict-dynamic' https: 'nonce-l9ZDhsp4+8yqDSO/JmtRew=='
+Date: Mon, 11 Mar 2024 23:50:42 GMT
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: master-only
+Content-Type: text/plain; charset=utf-8
+Retry-Count: 0
+Vary: Origin,Accept-Encoding
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Server: iterable-links 08b0

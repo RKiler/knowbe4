@@ -1,0 +1,5 @@
+426 Upgrade Required
+Date: Mon, 11 Mar 2024 23:50:36 GMT
+Content-Length: 0
+Retry-Count: 0
+Sec-Websocket-Version: 13

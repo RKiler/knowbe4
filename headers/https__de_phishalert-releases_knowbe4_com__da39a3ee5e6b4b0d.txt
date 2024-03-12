@@ -1,0 +1,15 @@
+200 OK
+X-Amz-Cf-Pop: SFO20-C1
+X-Amz-Cf-Id: UbZ5pZSGQXV7OHrHjUbc88GePCTCZAMTQCGysaQcTXrHQtgEiFtKTQ==
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 c0309604e5168dca084e5bc1df88239c.cloudfront.net (CloudFront)
+Content-Type: application/x-directory; charset=UTF-8
+X-Amz-Server-Side-Encryption: AES256
+Retry-Count: 0
+Date: Mon, 11 Mar 2024 23:51:57 GMT
+Content-Length: 0
+Last-Modified: Tue, 08 Nov 2022 16:27:39 GMT
+X-Amz-Version-Id: hSfy.QZkrf8UQOBzyPTcIU1XLxBXjMYM
+Etag: "d41d8cd98f00b204e9800998ecf8427e"

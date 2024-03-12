@@ -1,0 +1,24 @@
+200 OK
+Date: Mon, 11 Mar 2024 23:50:53 GMT
+X-Rate-Limit-Limit: 60
+Content-Language: en
+X-Robots-Tag: noindex,nofollow
+Vary: Accept-Encoding
+Cache-Control: no-cache, no-store
+Accept-Ch: Sec-CH-UA-Platform-Version
+Content-Type: text/html;charset=utf-8
+Retry-Count: 0
+Content-Security-Policy: default-src 'self' knowbe4.okta.com *.oktacdn.com; connect-src 'self' knowbe4.okta.com knowbe4-admin.okta.com *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com knowbe4.kerberos.okta.com *.authenticatorlocalprod.com:8769 http://localhost:8769 http://127.0.0.1:8769 *.authenticatorlocalprod.com:65111 http://localhost:65111 http://127.0.0.1:65111 *.authenticatorlocalprod.com:65121 http://localhost:65121 http://127.0.0.1:65121 *.authenticatorlocalprod.com:65131 http://localhost:65131 http://127.0.0.1:65131 *.authenticatorlocalprod.com:65141 http://localhost:65141 http://127.0.0.1:65141 *.authenticatorlocalprod.com:65151 http://localhost:65151 http://127.0.0.1:65151 https://oinmanager.okta.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' knowbe4.okta.com *.oktacdn.com; style-src 'unsafe-inline' 'self' knowbe4.okta.com *.oktacdn.com; frame-src 'self' knowbe4.okta.com knowbe4-admin.okta.com login.okta.com com-okta-authenticator:; img-src 'self' knowbe4.okta.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' knowbe4.okta.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'
+X-Rate-Limit-Reset: 1710201097
+Server: nginx
+Expires: 0
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 0
+P3p: CP="HONK"
+X-Rate-Limit-Remaining: 58
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=edge
+X-Okta-Request-Id: c3b90a03a9733cca368d37d94794d7b2
+Set-Cookie: sid="";Version=1;Path=/;Max-Age=0 autolaunch_triggered=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/ JSESSIONID=1A185BF092100247678976A39D081B66; Path=/; Secure; HttpOnly t=default; Path=/ DT=DI1kasiGGuSQy6Bj4t9pP2nGA;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Wed, 11 Mar 2026 23:50:53 GMT;HttpOnly
+Pragma: no-cache
+Strict-Transport-Security: max-age=315360000; includeSubDomains

@@ -1,0 +1,15 @@
+403 Forbidden
+Content-Length: 40
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: upgrade-insecure-requests
+Date: Mon, 11 Mar 2024 23:51:18 GMT
+Vary: Accept-Encoding
+Server: cloudflare
+Retry-Count: 0
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=KcztaIQXisgFOdAG8kOw4lH0rkOAZWX1reOwIC%2F157v8%2F%2FdWtZnIJwnEbPEHfveOb%2BT8fRKUeGE5RCnDhBZUO1nXI%2FtGJ3HaLXOI0ciKQn0yy9MnVecUEMGnfN0KgbK%2BfLTj77xFtbn%2BB6Bia9M2"}],"group":"cf-nel","max_age":604800}
+Cf-Ray: 862f73a55e5b96f5-SJC
+Content-Type: text/plain;charset=UTF-8
+Cache-Control: s-maxage=5,max-age=5
+Set-Cookie: __cf_bm=ul9J0mN4qCkGmLCgcDkROlH2T7.Of2a_RJ8sSGNVdUg-1710201078-1.0.1.1-TvvKVbJGFHTVtbFQyaJHmoo6kANTY_3j.KNM4pCOm6eDcoi9mnYDzyN9zM2o5aSL.Wpm7yoYjGv3HZfsHc3VIw; path=/; expires=Tue, 12-Mar-24 00:21:18 GMT; domain=.press.knowbe4.com; HttpOnly; Secure; SameSite=None __cfruid=859c363a1288c70da33d9b5c17d72dc0cdc81639-1710201078; path=/; domain=.press.knowbe4.com; HttpOnly; Secure; SameSite=None
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Alt-Svc: h3=":443"; ma=86400

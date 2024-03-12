@@ -1,0 +1,19 @@
+200 OK
+Etag: "02497527812bfc000ba1852331586c4e"
+X-Amz-Version-Id: null
+Content-Length: 1129
+Last-Modified: Tue, 20 Feb 2024 14:47:58 GMT
+Via: 1.1 b25dbab50c2d4b34d29539472626bfbe.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: ycFk2m0gjtViKbA5tW-YJ9uubmT43mMfAxexKsJAYlZzhSDn9P3iAw==
+Accept-Ranges: bytes
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: SFO53-P1
+Retry-Count: 0
+X-Frame-Options: SAMEORIGIN
+X-Amz-Server-Side-Encryption: AES256
+Server: AmazonS3
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Content-Type: text/html
+Date: Mon, 11 Mar 2024 23:52:02 GMT

@@ -1,0 +1,25 @@
+200 OK
+X-Hs-Content-Id: 33499448825
+Set-Cookie: __cf_bm=8_K_TKxi1go6hKLXijXnTc0A1rFfPcIxwc1j3sn6858-1710201142-1.0.1.1-inyExnCMWJ.2kO6_AeeZYETzAYjqq0Lbl50F4fw.P2HLPqrgkJ_C7AztLKW_YNLXRRlBmkSCKCMvGvYBIgWfIA; path=/; expires=Tue, 12-Mar-24 00:22:22 GMT; domain=.www.knowbe4.com; HttpOnly; Secure; SameSite=None __cfruid=32e7f07a4a1b82868a8afc2eeea0988b606fc870-1710201142; path=/; domain=.www.knowbe4.com; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=liZ1IVSVcQSJQIXPMpC6myxAXdKxb%2B9Y8mnUntfIJGkCacFv8M%2BZujXAvb9YbdnUioML%2FZGX2MyREJOTDasDurTJ8PglO19hdBv18aaHZobKGlxUigNN8sTL6rQmcdf64rOIpI7fQOKe7NIMbg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Date: Mon, 11 Mar 2024 23:52:22 GMT
+Content-Security-Policy: upgrade-insecure-requests
+X-Hs-Cache-Control: s-maxage=10800, max-age=0
+Last-Modified: Mon, 11 Mar 2024 14:18:12 GMT
+Edge-Cache-Tag: CT-13279534458,CT-26277377027,CT-33499448825,CG-241394,P-241394,L-143066566505,L-3746347323,L-3746596158,L-3746651408,W-145200577794041570,W-145200578193041950,W-145200580722842500,W-1527871654654,W-1527872166087,W-1527878156628,W-1527878164070,W-1527878170618,W-1527878176560,W-1527878188268,W-22526399445,CW-114101766769,CW-130255322671,CW-22099224298,CW-3687851744,CW-41852124771,CW-5828343120,CW-5832024498,DB-2597356,DB-700870,E-3687201919,E-3708697291,E-3720701351,E-3745745942,E-3745746232,E-3753032673,E-3753097018,E-3762155447,E-3762409217,E-3892345295,E-38969647180,E-3903106600,E-3903111755,E-3903250300,E-3903703250,E-5828267324,E-90968704276,MENU-22526399445,MENU-3738471322,MENU-3881383055,PGS-ALL,SW-4,B-2065724514,GC-26267854607,GC-27287572975,GC-32450113449,GC-52199818789
+Referrer-Policy: no-referrer-when-downgrade
+X-Hs-Cache-Config: BrowserCache-5s-EdgeCache-180s
+X-Hs-Hub-Id: 241394
+Content-Type: text/html; charset=UTF-8
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cache-Control: no-store, no-cache, must-revalidate
+X-Hs-Cf-Cache-Status: HIT
+Retry-Count: 0
+X-Hs-Prerendered: Mon, 11 Mar 2024 14:18:12 GMT
+Cf-Ray: 862f75361ccd17e0-SJC
+Alt-Svc: h3=":443"; ma=86400
+Etag: W/"8c853b862625e2fe8da0df0dff59cbc5"
+Link: </hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.17/bundles/project.js>; rel=preload; as=script,</hs/hsstatic/cos-i18n/static-1.53/bundles/project.js>; rel=preload; as=script,</_hcms/forms/v2.js>; rel=preload; as=script
+Strict-Transport-Security: max-age=31536000

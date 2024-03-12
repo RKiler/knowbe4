@@ -1,0 +1,20 @@
+200 OK
+Date: Mon, 11 Mar 2024 23:51:25 GMT
+Etag: "23d294d61370adac0ddd5fa4c3283be7"
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Version-Id: kPC.Zd6Co79954bJNRRHNWxaH4JHgrSB
+Accept-Ranges: bytes
+Server: AmazonS3
+Content-Type: text/html
+Last-Modified: Thu, 29 Feb 2024 15:31:16 GMT
+Vary: Accept-Encoding
+X-Cache: RefreshHit from cloudfront
+X-Amz-Cf-Pop: SFO53-P1
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Via: 1.1 75109f22d44404e68915a641fc09f102.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: ECIlEZBkvAUl8AzschAzIIhD71LNyUDp2vvt8ndKDRzNQZMyzRq-MQ==
+Retry-Count: 0
+Content-Length: 830
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload

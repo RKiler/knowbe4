@@ -1,0 +1,12 @@
+403 Forbidden
+Content-Length: 23
+X-Amzn-Requestid: 5b0f088f-8bb4-48b1-820f-02905ee74d8a
+X-Amzn-Errortype: ForbiddenException
+X-Amz-Apigw-Id: UfTkLGPnoAMEsbA=
+X-Amz-Cf-Pop: SFO53-P2
+X-Amz-Cf-Id: 6ItOCk7uBoABmsPU1SJMhtGen9qqvSCr2SuEXTXTtXT4VJLmBjaoXQ==
+Retry-Count: 0
+Content-Type: application/json
+Date: Mon, 11 Mar 2024 23:52:45 GMT
+X-Cache: Error from cloudfront
+Via: 1.1 a146031241521fa507561533d8591850.cloudfront.net (CloudFront)

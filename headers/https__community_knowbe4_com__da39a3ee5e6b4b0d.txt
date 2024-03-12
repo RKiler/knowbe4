@@ -1,0 +1,18 @@
+200 OK
+Set-Cookie: new_visit=214bb01eab79c803fe00e64c8e6e2a0934914341s%3A42%3A%22a63f5dc544423a672b50b482eec579b2%3Anew_visit%22%3B; expires=Tue, 12-Mar-2024 00:21:05 GMT; Max-Age=1800; path=/; secure; HttpOnly
+X-Amz-Cf-Pop: SFO20-C1
+X-Amz-Cf-Id: EYuu8Iqy5ol0bbzZ5easpPZBhO1AuVLyuE57rWpKCfcIpYycSdhmyg==
+Retry-Count: 0
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 11 Mar 2024 23:51:06 GMT
+Server: nginx
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Cache: Miss from cloudfront
+Via: 1.1 36cc13280ef76bb2fee6ae5eed6fec2e.cloudfront.net (CloudFront)
+Cache-Control: max-age=0, private
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Etag: "e42c5ed64eac79cf22eaedd9a667ebb4"
+Vary: Accept-Encoding
+X-Xss-Protection: 1; mode=block

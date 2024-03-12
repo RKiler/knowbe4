@@ -1,0 +1,22 @@
+200 OK
+X-Amz-Server-Side-Encryption: AES256
+Content-Security-Policy-Report-Only: default-src * 'self' data: https://*.launchdarkly.com/ https://*.zopim.com/ api-js.mixpanel.com https://api-js.mixpanel.com/decide https://api-js.mixpanel.com/engage https://api-js.mixpanel.com/track https://api-js.mixpanel.com/decide/ https://api-js.mixpanel.com/engage/ https://api-js.mixpanel.com/track/ https://api.mixpanel.com/ https://cdnjs.cloudflare.com/ https://ekr.zdassets.com/ https://ekr.zendesk.com/ https://knowbe4.zendesk.com/ https://knowbe4.zendesk.com/embeddable/config https://knowbe4.zendesk.com/embeddable_blip https://knowbe4.zendesk.com/frontendevents/dl https://knowbe4.zendesk.com/frontendevents/pv https://static.zdassets.com/ https://zendesk-eu.my.sentry.io/ wss://knowbe4.zendesk.com/ wss://*.zopim.com/ ; child-src * 'self' blob: ; connect-src * 'self' data: https://*.launchdarkly.com/ https://*.zopim.com/ api-js.mixpanel.com https://api-js.mixpanel.com/decide https://api-js.mixpanel.com/engage https://api-js.mixpanel.com/track https://api-js.mixpanel.com/decide/ https://api-js.mixpanel.com/engage/ https://api-js.mixpanel.com/track/ https://api.mixpanel.com/ https://cdnjs.cloudflare.com/ https://ekr.zdassets.com/ https://ekr.zendesk.com/ https://knowbe4.zendesk.com/ https://knowbe4.zendesk.com/embeddable/config https://knowbe4.zendesk.com/embeddable_blip https://knowbe4.zendesk.com/frontendevents/dl https://knowbe4.zendesk.com/frontendevents/pv https://static.zdassets.com/ https://zendesk-eu.my.sentry.io/ wss://knowbe4.zendesk.com/ wss://*.zopim.com/ ; frame-src * 'self' blob: android-webview-video-poster: ; font-src * 'self' data: fonts.gstatic.com ; img-src * 'self' blob: cid: data: file: android-webview-video-poster: https://cdn.mxpnl.com/ https://v2assets.zopim.io/ https://static.zdassets.com/ ; media-src * 'self' about: blob: data: ; object-src * 'self' ; script-src * 'self' 'unsafe-inline' 'unsafe-eval' blob: https://*.launchdarkly.com/ https://*.zopim.com/ api-js.mixpanel.com https://api-js.mixpanel.com/decide https://api-js.mixpanel.com/engage https://api-js.mixpanel.com/track https://api-js.mixpanel.com/decide/ https://api-js.mixpanel.com/engage/ https://api-js.mixpanel.com/track/ https://api.mixpanel.com/ https://cdnjs.cloudflare.com/ https://ekr.zdassets.com/ https://ekr.zendesk.com/ https://knowbe4.zendesk.com/ https://knowbe4.zendesk.com/embeddable/config https://knowbe4.zendesk.com/embeddable_blip https://knowbe4.zendesk.com/frontendevents/dl https://knowbe4.zendesk.com/frontendevents/pv https://static.zdassets.com/ https://zendesk-eu.my.sentry.io/ wss://knowbe4.zendesk.com/ wss://*.zopim.com/ ; script-src-elem * 'self' 'unsafe-inline' 'unsafe-eval' blob: data: ; style-src * 'self' 'unsafe-inline' data: ; style-src-elem * 'self' 'unsafe-inline' data: ; report-uri https://csp-report.browser-intake-datadoghq.com/api/v2/logs?dd-api-key=pubf27996eb9977f34aa9f3376bd3939adc&dd-evp-origin=content-security-policy&ddsource=csp-report&app=kmsat&env=od-spam-addin ; worker-src * 'self' blob: data: ;
+Referrer-Policy: strict-origin-when-cross-origin
+Date: Mon, 11 Mar 2024 23:50:42 GMT
+Server: AmazonS3
+X-Permitted-Cross-Domain-Policies: none
+X-Amz-Cf-Id: iy2L7T9_VRAGSn2-evOxPiUMybD7SygN7hR7GkwUj3aOAXKBb3O5jw==
+Vary: Accept-Encoding
+Via: 1.1 83a1283d49701137e5e33ceceadcbca6.cloudfront.net (CloudFront)
+Content-Type: text/html
+Last-Modified: Fri, 08 Mar 2024 20:19:51 GMT
+X-Amz-Version-Id: vDKMySBXuOidYDwUiLCtsjlLQq_eG2hR
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Amz-Cf-Pop: SFO53-P3
+X-Cache: Error from cloudfront
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Etag: W/"713aec514d4d69cf18357b4e120ef18c"

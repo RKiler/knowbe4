@@ -1,0 +1,21 @@
+200 OK
+X-Amz-Version-Id: Hxkt5yHex7pIOcYsyrgzEgyPDZPvEr.2
+Accept-Ranges: bytes
+Etag: "27ac9d60a81dcaec89d0e959a2a7189b"
+Vary: Accept-Encoding
+Content-Type: text/html
+Last-Modified: Thu, 29 Feb 2024 15:32:09 GMT
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Cf-Pop: SFO5-P2
+Age: 3314
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Content-Type-Options: nosniff
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Id: _TFwIACsQ0prPgBy-gXP2G327G63lqX8OQTWzhFASvdBK38sXsl0Iw==
+Content-Length: 830
+Server: AmazonS3
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Date: Mon, 11 Mar 2024 22:56:32 GMT
+Via: 1.1 74aa91fe819001bcedd882694f52b436.cloudfront.net (CloudFront)
+Retry-Count: 0

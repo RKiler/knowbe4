@@ -1,0 +1,25 @@
+200 OK
+X-Hs-Cf-Cache-Status: HIT
+Link: </hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.17/bundles/project.js>; rel=preload; as=script,</hs/hsstatic/cos-i18n/static-1.53/bundles/project.js>; rel=preload; as=script,</_hcms/forms/v2.js>; rel=preload; as=script
+Edge-Cache-Tag: CT-47578955404,P-241394,L-104990672721,L-3746347323,L-3746596158,L-3746651408,W-22526399445,CW-22099224298,DB-2597356,E-3687201919,E-3708697291,E-3720701351,E-3732256512,E-3745745942,E-3745746232,E-3753032673,E-3753097018,E-3762155447,E-3762409217,E-3892345295,E-38969647180,E-3903106600,E-3903111755,E-3903250300,E-5828267324,E-90968704276,MENU-22526399445,MENU-3738471322,MENU-3881383055,PGS-ALL,SW-4,GC-26267854607,GC-27287572975,GC-32450113449
+Server: cloudflare
+Retry-Count: 0
+X-Hs-Prerendered: Thu, 07 Mar 2024 20:42:25 GMT
+Last-Modified: Thu, 07 Mar 2024 20:42:25 GMT
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: no-referrer-when-downgrade
+X-Hs-Cache-Config: BrowserCache-5s-EdgeCache-180s
+X-Hs-Content-Id: 47578955404
+Content-Type: text/html; charset=UTF-8
+Etag: W/"e2a9a1f9b621f5954e5d7a8c3baefecb"
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+X-Hs-Hub-Id: 241394
+Set-Cookie: __cf_bm=oC3NTn5QHWgRpm5LLMuwPx6klN4SXYkCTbAuQ45JX.8-1710201054-1.0.1.1-.hhTS5un_GQ7R3bpvUffqUUm1K5MVV7CqAIjED_23gxGKfAJPqrV3Zk13vZvKLxPKTKfoWI7.Qg9Ww_f4h1xUg; path=/; expires=Tue, 12-Mar-24 00:20:54 GMT; domain=.www.knowbe4.com; HttpOnly; Secure; SameSite=None __cfruid=4c1bdd0574562a4761895663374cd479d188069c-1710201054; path=/; domain=.www.knowbe4.com; HttpOnly; Secure; SameSite=None
+Cache-Control: no-store, no-cache, must-revalidate
+X-Hs-Cache-Control: s-maxage=10800, max-age=0
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8mDqJ9TEo6BE9t%2F3%2F2qXJ1XhK%2B37jfpE%2FyBFovJQTh1giNOoZSBacnGq6MNkPIeasyV2pnziiOHKPQZ%2Fr%2B%2BXeeztrpIqQehFmL2jQlChr7srypfSFTcpgXVHYZD%2BxeU3yHNanEBNGCkWSpDFog%3D%3D"}],"group":"cf-nel","max_age":604800}
+Cf-Ray: 862f730b587c642c-SJC
+Alt-Svc: h3=":443"; ma=86400
+Date: Mon, 11 Mar 2024 23:50:54 GMT

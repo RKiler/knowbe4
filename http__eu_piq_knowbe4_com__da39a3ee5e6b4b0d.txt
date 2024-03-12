@@ -1,0 +1,12 @@
+403 Forbidden
+X-Amzn-Errortype: MissingAuthenticationTokenException
+X-Amz-Apigw-Id: UfThYHI-joEEjRQ=
+Via: 1.1 9dd3dc89ceef445e30675ec62b988646.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: -QFZJwKkcFT5oBw-cRT8tlSpkcb7-JM9hac0xCONnKqRMaqQJb26Kg==
+Content-Type: application/json
+Content-Length: 42
+Date: Mon, 11 Mar 2024 23:52:27 GMT
+X-Amzn-Requestid: 0cab015e-ed43-4380-8b20-6b44b57ca763
+Retry-Count: 0
+X-Cache: Error from cloudfront
+X-Amz-Cf-Pop: SFO53-P5
